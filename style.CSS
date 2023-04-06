@@ -1,0 +1,18 @@
+.cabecalho{
+    background-color: #1946E6;
+}
+
+.cabecalho__imagem{
+    width: 130px; ;
+height: 137px; ;
+}
+
+.cabecalho__titulo, .cabecalho__menu{
+
+    display: inline;
+}
+.cabecalho__menu-item{
+
+    display: inline;
+    margin: 0px 0px 0px 20px;
+}

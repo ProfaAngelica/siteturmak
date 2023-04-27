@@ -46,8 +46,6 @@ border-radius: 100px;
 }
 
 .escola__imagem{
-    display:flex;
-    justify-content:aroun; 
     margin: 20px;
     width: 300px;
     height: auto;

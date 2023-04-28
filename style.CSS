@@ -46,13 +46,14 @@ border-radius: 100px;
 }
 
 .escola__imagem{
-    margin: 20px;
+    display:flex
+    justify-content: flex-end;
     width: 300px;
     height: auto;
 }
 .escola__titulo{
 
-    text-align: center;
+    text-align: flex-end;
 }
 .escola__paragrafo{
     text-align: justify;
@@ -61,12 +62,12 @@ border-radius: 100px;
 
     .professores{
         display: grid;
-    grid-template-columns:1fr 1fr 1fr ;
+    grid-template-columns:1fr 1fr; 
     grid-template-rows: auto auto auto auto;
         background-color: #7a7a7a;
        border-radius: 40px;
     margin: 20px;
-    justify-items: center;
+    justify-items:;
     gap: 20px
     }
     .professores__div {

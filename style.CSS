@@ -47,16 +47,16 @@ border-radius: 100px;
 
 .escola__imagem{
     display:flex
-    justify-content: flex-end;
+    justify-content: space-between;
     width: 300px;
     height: auto;
 }
 .escola__titulo{
-
-    text-align: flex-end;
+    
+    text-align: center;
 }
 .escola__paragrafo{
-    text-align: justify;
+    text-align: flex-end;
 }
 
 

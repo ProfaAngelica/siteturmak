@@ -5,7 +5,7 @@ body{
     display: flex;
     justify-content: space-around;
     align-items: center;
-    background-color: #1946E6;
+    background-color: #f6f6f8;
 }
 
 .cabecalho__imagem{
